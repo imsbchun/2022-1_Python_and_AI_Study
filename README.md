@@ -9,9 +9,6 @@
 
 ## 스터디 소개 및 목표
 - python 코딩 실력과 AI의 기초 이론에 대해 함께 공부하며 의견을 나누며, 코딩실력과 AI 기초지식을 쌓기 위한 스터디입니다.
-
-<br>
-
 - 언택트 방식으로 진행되며, 2~8주차까지는 python 기초 코딩스터디, 5주차부터는 참가 희망자들을 모집하여 [김성훈교수님의 유튜브 강의](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m)와 [cs231n : 스텐포드 강의 영상](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLSVEhWrZWDHQTBmWZufjxpw3s8sveJtnJ)보며 AI 이론 및 실습 스터디를 진행합니다. (1주차는 OT 입니다.)
 
 
@@ -61,14 +58,13 @@
 #### 📌 스터디 규칙
 - 당일 참석이 불가능 한 스터디원은 미리 사전에 알려주셔야 합니다.
 	> 무단 결석 3회시 스터티 참여 불가
-- 참석을 하지못했더라도 과제는 꼭 깃허브에 올려주셔야 합니다.
+- 미참석자도 과제는 꼭 깃허브에 올려주셔야 합니다.
 	> 과제 미제출 3회시 스터디 참여 불가
 
 <br><br>
 
 
 ## 코딩스터디 커리큘럼
-   
 
    
 ### 1주차: OT
@@ -102,9 +98,6 @@
 <br>
 
 
-
-
-
 ### 2주차: python 기초 1 - [기초 데이터 타입](http://pythonstudy.xyz/python/article/7-%EA%B8%B0%EB%B3%B8-%EB%8D%B0%EC%9D%B4%ED%83%80-%ED%83%80%EC%9E%85)
 - **스터디 진행**
    - 지난 주차 python 코딩 과제 리뷰 
@@ -134,8 +127,6 @@
    </details>
 
 <br>
-
-
 
 
 ### 3주차: python 기초 2 - [자료형(문자형 & 숫자형)](https://wikidocs.net/11)
@@ -170,7 +161,6 @@
    </details>
 
 <br>
-
 
 
 ### 4주차: python 기초 3 - [자료형(문자형 & 숫자형)](https://wikidocs.net/11)
@@ -208,9 +198,6 @@
    </details>
 
 <br>
-
-
-
 
 
 ### 5주차: python 중급 1 - [클래스](https://wikidocs.net/28) & [함수](https://wikidocs.net/24)
@@ -283,6 +270,7 @@
    
 <br>
 
+
 ### 7주차: python 중급 3 - 정렬
 - **스터디 진행**
    - 지난 주차 python 코딩 과제 리뷰 
@@ -314,6 +302,7 @@
    
 <br>
 
+
 ### 8주차: python 코딩 테스트
 - **스터디 진행**
    - 지난 주차 python 코딩 과제 리뷰 
@@ -323,9 +312,6 @@
    
    
 <br>
-
-
-
 
 
 ## 인공지능 스터디 커리큘럼
