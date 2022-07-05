@@ -4,4 +4,4 @@
 * 내용 : 작성한 코드 복붙
 
 ## ex
-* 제목 : [CJA]List Comprehensions.py
+* 제목 : [[CJA]List Comprehensions.py](https://github.com/Artinto/2022-1_Python_and_AI_Study/blob/main/%5B01%EC%A3%BC%EC%B0%A8%5D/%5BCJA%5DList%20Comprehensions.py)
