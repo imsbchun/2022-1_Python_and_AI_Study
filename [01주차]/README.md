@@ -1,7 +1,9 @@
-# 과제 작성 양식
+# 과제 올리는법
+
+* 문제별로 폴더 생성 완료했습니다.
+* 각 문제별 폴더 클릭 후 create new file 클릭하여 아래 양식대로 작성하시길 바랍니다.
+
+# 양식
 
 * 제목 : [이니셜]문제.py
 * 내용 : 작성한 코드 복붙
-
-## ex
-* 제목 : [[CJA]List Comprehensions.py](https://github.com/Artinto/2022-1_Python_and_AI_Study/blob/main/%5B01%EC%A3%BC%EC%B0%A8%5D/%5BCJA%5DList%20Comprehensions.py)
